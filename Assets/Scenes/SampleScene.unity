@@ -558,7 +558,7 @@ GameObject:
   - component: {fileID: 440691470}
   - component: {fileID: 440691469}
   - component: {fileID: 440691468}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Reticle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -649,13 +649,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 440691467}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.25, z: 9.53}
-  m_LocalScale: {x: 1.1679, y: 1.1679, z: 1.1679}
+  m_LocalRotation: {x: -0.00015425682, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.35, z: 8.91}
+  m_LocalScale: {x: 1.1679, y: 0.07488888, z: 4.042452}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -0.018, y: 0, z: 0}
 --- !u!1 &646008305
 GameObject:
   m_ObjectHideFlags: 0
